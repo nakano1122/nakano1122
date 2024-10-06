@@ -8,7 +8,7 @@ https://nakano1122.github.io/
 SAL(**S**earch **a**s **L**earning)
 
 ## インターン経験
-2024-07 シックスワン株式会社（現在も継続中）
+2024-07 [シックスワン株式会社](https://six1.jp/)（現在も継続中）
 
 ## 技術スタック
 <p align="left">
