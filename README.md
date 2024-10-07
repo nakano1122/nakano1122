@@ -45,4 +45,4 @@ SAL(**S**earch **a**s **L**earning)
 
 ## ハッカソン経験
 ### Tech Summer Camp 最優秀賞（2024-09）
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-all-in&repo=all-in)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-all-in&repo=all-in)](https://github.com/team-all-in/all-in)
