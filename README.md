@@ -39,8 +39,8 @@ SAL(**S**earch **a**s **L**earning)
 </p>
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakano1122&layout=compact&show_icons=true&theme=default&count_private=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nakano1122&theme=default&show_icons=ture&count_private=true" />
+  <img alt="Top Langs" height="150px" src="https://my-github-stats-rust.vercel.app/api/top-langs/?username=nakano1122&layout=compact&show_icons=true&theme=default&count_private=true" />
+  <img alt="github stats" height="150px" src="https://my-github-stats-rust.vercel.app/api?username=nakano1122&theme=default&show_icons=ture&count_private=true" />
 </p>
 
 ## ハッカソン経験
