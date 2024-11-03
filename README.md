@@ -46,3 +46,5 @@ SAL(**S**earch **a**s **L**earning)
 ## ハッカソン経験
 ### Tech Summer Camp 最優秀賞（2024-09）
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-all-in&repo=all-in)](https://github.com/team-all-in/all-in)
+### sdfc2024 in 浜松
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakano1122&repo=hamamatsu-gokan-project)](https://github.com/nakano1122/hamamatsu-gokan-project)
