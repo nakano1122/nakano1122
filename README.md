@@ -1,5 +1,5 @@
 # プロフィール
-https://nakano1122.github.io/
+https://nakano1122.github.io/ （就活用ポートフォリオ）
 
 ## 所属
 静岡大学 情報学部 行動情報学科
@@ -44,7 +44,7 @@ SAL(**S**earch **a**s **L**earning)
 </p>
 
 ## ハッカソン経験
-### Tech Summer Camp 最優秀賞（2024-09）
+### TechSummerCamp 最優秀賞（2024/09/14～2024/09/16）
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-all-in&repo=all-in)](https://github.com/team-all-in/all-in)
-### sdfc2024 in 浜松
+### SDFC2024 in 浜松（2024/11/02）
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakano1122&repo=hamamatsu-gokan-project)](https://github.com/nakano1122/hamamatsu-gokan-project)
