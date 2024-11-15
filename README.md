@@ -1,5 +1,5 @@
 # プロフィール
-[https://nakano1122.github.io/](https://nakano1122.github.io/) （就活用ポートフォリオ）
+[就活用ポートフォリオ](https://nakano1122.github.io/)
 
 ## 所属
 静岡大学 情報学部 行動情報学科
