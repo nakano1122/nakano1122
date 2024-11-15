@@ -1,5 +1,5 @@
 # プロフィール
-[https://nakano1122.github.io/](https://nakano1122.github.io/) {:target="_blank"} （就活用ポートフォリオ）
+[https://nakano1122.github.io/](https://nakano1122.github.io/) （就活用ポートフォリオ）
 
 ## 所属
 静岡大学 情報学部 行動情報学科
@@ -8,7 +8,7 @@
 SAL(**S**earch **a**s **L**earning)
 
 ## インターン経験
-2024-07 [シックスワン株式会社](https://six1.jp/){:target="_blank"}（現在も継続中）
+2024-07 [シックスワン株式会社](https://six1.jp/)（現在も継続中）
 
 ## 技術スタック
 
@@ -71,6 +71,6 @@ SAL(**S**earch **a**s **L**earning)
 
 ## ハッカソン経験
 ### TechSummerCamp 最優秀賞（2024/09/14～2024/09/16）
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-all-in&repo=all-in)](https://github.com/team-all-in/all-in){:target="_blank"}
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-all-in&repo=all-in)](https://github.com/team-all-in/all-in)
 ### SDFC2024 in 浜松（2024/11/02）
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakano1122&repo=hamamatsu-gokan-project)](https://github.com/nakano1122/hamamatsu-gokan-project){:target="_blank"}
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakano1122&repo=hamamatsu-gokan-project)](https://github.com/nakano1122/hamamatsu-gokan-project)
