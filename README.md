@@ -1,18 +1,18 @@
-# プロフィール
-ポートフォリオサイトへは[こちら](https://nakano1122.github.io/)からお願いします。
+# Profile
+ポートフォリオサイトへは[こちら](https://my-portfolio-rust-kappa-81.vercel.app/)からお願いします。
 
-## 所属
-静岡大学 情報学部 行動情報学科
+## Work
+静岡大学 情報学部 行動情報学科 3年
 
-## 研究分野
+## Research
 SAL(**S**earch **a**s **L**earning)
 
-## インターン経験
-2024-07 [シックスワン株式会社](https://six1.jp/)（現在も継続中）
+## Internship
+2024-07〜 [シックスワン株式会社](https://six1.jp/)
 
-## 技術スタック
+## Tech Stack
 
-### 言語
+### Langage
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -31,7 +31,7 @@ SAL(**S**earch **a**s **L**earning)
   </a>
 </p>
 
-### バックエンドFW
+### BE
 <p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon~v2.svg" alt="flask" width="40" height="40"/>
@@ -44,14 +44,14 @@ SAL(**S**earch **a**s **L**earning)
   </a>
 </p>
 
-### フロントエンドFW
+### FE
 <p align="left">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
 
-### その他ツール
+### Other
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -68,9 +68,3 @@ SAL(**S**earch **a**s **L**earning)
   <img alt="Top Langs" height="150px" src="https://my-github-stats-rust.vercel.app/api/top-langs/?username=nakano1122&layout=compact&show_icons=true&theme=default&count_private=true" />
   <img alt="github stats" height="150px" src="https://my-github-stats-rust.vercel.app/api?username=nakano1122&theme=default&show_icons=ture&count_private=true" />
 </p>
-
-## ハッカソン経験
-### TechSummerCamp 最優秀賞（2024/09/14～2024/09/16）
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=team-all-in&repo=all-in)](https://github.com/team-all-in/all-in)
-### SDFC2024 in 浜松（2024/11/02）
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nakano1122&repo=hamamatsu-gokan-project)](https://github.com/nakano1122/hamamatsu-gokan-project)
