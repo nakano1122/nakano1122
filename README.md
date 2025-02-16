@@ -5,8 +5,9 @@
 静岡大学 情報学部 行動情報学科 3年
 
 ## Research
-- SAL(**S**earch **a**s **L**earning)
-- グラフアルゴリズム（セレンディピティ推薦）
+- セレンディピティ推薦
+- Search as Learning
+- グラフアルゴリズム
 
 ## Internship
 2024-07〜 [シックスワン株式会社](https://six1.jp/)
