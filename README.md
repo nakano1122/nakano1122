@@ -2,7 +2,7 @@
 ポートフォリオサイトへは[こちら](https://my-portfolio-rust-kappa-81.vercel.app/)からお願いします。
 
 ## Work
-静岡大学 情報学部 行動情報学科 3年
+静岡大学 情報学部 行動情報学科 4年
 
 ## Research
 - セレンディピティ推薦
