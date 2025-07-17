@@ -6,8 +6,8 @@
 
 ## Research
 - セレンディピティ推薦
-- Search as Learning
 - グラフアルゴリズム
+- Web検索
 
 ## Internship
 2024-07〜 [シックスワン株式会社](https://six1.jp/)
