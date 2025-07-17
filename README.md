@@ -12,6 +12,16 @@
 ## Internship
 2024-07〜 [シックスワン株式会社](https://six1.jp/)
 
+## Awards
+
+2025-03 | DEIM2025 学生プレゼンテーション賞
+
+2025-02 | 技育博 vol.6 企業賞（GMOインターネット様、CARTA HOLDINGS様）
+
+2025-01 | 技育CAMP vol.20 最優秀賞
+
+2024-09 | TechSummerCamp 最優秀賞
+
 ## Tech Stack
 
 ### BE
