@@ -10,7 +10,8 @@
 - Web検索
 
 ## Internship
-2024-07〜 [シックスワン株式会社](https://six1.jp/)
+2025-08~ [株式会社 NITI Technology](https://nititech.jp/)
+2024-07〜2025-07 [シックスワン株式会社](https://six1.jp/)
 
 ## Awards
 
