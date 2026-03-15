@@ -1,35 +1,38 @@
 # Profile
 ポートフォリオサイトへは[こちら](https://nakano1122.github.io/)からお願いします。
 
-## Education
-静岡大学 情報学部 行動情報学科 4年
-（2026/04より、筑波大学大学院に進学予定）
-
 ## Research
-### Topic
-学部では、情報推薦やHCIに関する研究を、大学院では、情報検索に関する研究を進めています。
+### [筑波大学 加藤誠研究室](https://kasys.slis.tsukuba.ac.jp/)（2026/04〜）
+パーソナライズ検索に関する研究を進めています。
 
-特に、以下のトピックに関する研究をしています。
+### [静岡大学 莊司研究室](https://shoji-lab.github.io/)（2024/08〜2026/03）
+ミュージアムをフィールドとして、情報推薦やHCIに関する研究を進めていました。
 
-- Serendipity Recommendation
-- Content-based Recommendation
-- Dense Retrieval
-
-### Paper
+#### Paper
+- ミュージアム再訪促進のための鑑賞した展示物と意外な共通点を持つ展示物の発見（DEIM2026）
 - Question-Based Viewing with LLM-Powered Personified Characters: A Role-Playing Dialogue System for Perspective-Taking in Museums（ICADL2025）
 - ミュージアム訪問者に多様な視点を持たせるための「なりきって答える」対話型鑑賞支援システム（DEIM2025 *学生プレゼンテーション賞*）
 
 ## Development
-### Projects
-#### はまはくAI 開発担当（「浜松市博物館」 × 「NXワンビシアーカイブズ」 × 「静岡大学 情報学部」の産官学連携プロジェクト）
+### はまはくAI （「浜松市博物館」 × 「NXワンビシアーカイブズ」 × 「静岡大学 情報学部」の産官学連携プロジェクト 開発担当）
 戦国武将に詳しいキャラクターと話せるチャットアプリを開発しました。
 キャラクターのセリフは、博物館が発行する図録の情報をもとにLLMで生成させました。
 
-### Awards
+### 「エンジニア交流会でアカウントを共有したいけどIDが長すぎて面倒！」を解決するための、アカウント共有アプリ
+すれ違ったユーザのアカウントを検知したり、QRコードで共有可能なiOSアプリを開発しました。 
+開発は4人で行い、私は、すれ違ったユーザを取得するAPI、フレンドを追加するAPIなどのバックエンドの開発を担当しました。
 
-- 技育博2025 vol.6 企業賞2社
-- 技育CAMP2025 vol.20 最優秀賞（[Repo](https://github.com/kaitobq/giiku-camp)）
-- TechSummerCamp2024 最優秀賞（[Repo](https://github.com/team-all-in/all-in)）
+- **_技育CAMP2025 vol.20 最優秀賞_**
+- **_技育博2025 vol.6 企業賞2社_**
+- [Repo](https://github.com/kaitobq/giiku-camp)
+
+### 「色んなアプリから通知が来ると管理が大変！」を解決するための、通知一括管理アプリ
+SlackやDiscordなどの通知を一括管理するアプリを開発しました。 
+7人のチームで、開発期間2日間のハッカソンに出場し、最優秀賞を獲得しました。 
+私はバックエンド領域を担当し、特に、Discord APIを使用して、メッセージが送られたらアプリ側にそれを反映する処理を実装しました。
+
+- **_TechSummerCamp2024 最優秀賞_**
+- [Repo](https://github.com/team-all-in/all-in)
 
 ### Tech Stack & Stats
 
