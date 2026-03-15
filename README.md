@@ -4,6 +4,8 @@
 ## Research
 ### [筑波大学 加藤誠研究室](https://kasys.slis.tsukuba.ac.jp/)（2026/04〜）
 パーソナライズ検索に関する研究を進めています。
+#### Paper
+- Coming Soon...
 
 ### [静岡大学 莊司研究室](https://shoji-lab.github.io/)（2024/08〜2026/03）
 ミュージアムをフィールドとして、情報推薦やHCIに関する研究を進めていました。
