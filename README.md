@@ -3,7 +3,7 @@
 
 ## Research
 ### [筑波大学 加藤誠研究室](https://kasys.slis.tsukuba.ac.jp/)（2026/04〜）
-パーソナライズ検索に関する研究を進めています。
+情報検索に関する研究を進めています。
 #### Paper
 - Coming Soon...
 
