@@ -52,8 +52,11 @@ SlackやDiscordなどの通知を一括管理するアプリを開発しまし�
   <img alt="github stats" height="150px" src="https://my-github-stats-rust.vercel.app/api?username=nakano1122&theme=default&show_icons=ture&count_private=true" />
 </p>
 
-## Internship
-### [株式会社 NITI Technology](https://nititech.jp/)（2025/08〜現在）
+## Works
+### [Panda株式会社](https://pd-panda.com/)（2026/07〜）
+機械学習エンジニアとして、物体検出モデルの開発およびMLOpsの構築に従事しています。
+
+### [株式会社 NITI Technology](https://nititech.jp/)（2025/08〜2026/06）
 バックエンド、フロントエンドの開発に携わっています。
 たまにインフラ（定期実行など）周りも触っています。
 
