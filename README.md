@@ -32,7 +32,7 @@ Akito Nakano
 
 ### Affiliation
 
-Master's Program in Informatics, University of Tsukuba
+Master's Program in Informatics, University of Tsukuba  
 [Kato & Pham Laboratory（KASYS）](https://kasys.slis.tsukuba.ac.jp/en/)
 
 ### Research
