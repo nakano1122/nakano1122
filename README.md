@@ -7,7 +7,8 @@
 
 ## 研究 / Research
 
-- パーソナライズ検索 / Personalized search  
+- パーソナライズ検索 / Personalized search
+- Agentic Search
 - ミュージアムにおける展示物推薦 / Exhibit recommendation in museums  
 - ミュージアムの鑑賞支援 / Museum viewing support
 
