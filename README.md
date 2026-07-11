@@ -13,7 +13,7 @@
 
 ## 業務 / Work
 
-- [Panda株式会社 / Panda Inc.](https://pd-panda.com/)：MLエンジニア（業務委託） / Machine Learning Engineer (Contractor)
+- [Panda株式会社 / Panda Inc.](https://pd-panda.com/)：機械学習エンジニア（業務委託） / Machine Learning Engineer (Contractor)
 - [株式会社ビズリーチ / BizReach, Inc.](https://www.bizreach.co.jp/)：リサーチアシスタント（共同研究） / Research Assistant (Joint Research)
 
 ## 技術 / Skills
