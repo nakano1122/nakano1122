@@ -3,14 +3,13 @@
 ## 所属 / Affiliation
 
 - 筑波大学 人間総合科学学術院 情報学学位プログラム / Master's Program in Informatics, University of Tsukuba  
-  [加藤・ファム研究室（KASYS）](https://kasys.slis.tsukuba.ac.jp/) / [Kato & Pham Laboratory (KASYS)](https://kasys.slis.tsukuba.ac.jp/en/)
+  [知識獲得システム研究室（KASYS）](https://kasys.slis.tsukuba.ac.jp/) / [Knowledge Aquisition SYStem Laboratory (KASYS)](https://kasys.slis.tsukuba.ac.jp/en/)
+  
 
 ## 研究 / Research
 
 - パーソナライズ検索 / Personalized search
 - Agentic Search
-- ミュージアムにおける展示物推薦 / Exhibit recommendation in museums  
-- ミュージアムの鑑賞支援 / Museum viewing support
 
 ## 業務 / Work
 
